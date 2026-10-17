@@ -1,0 +1,7 @@
+goal,planner,ok_runs,plan_ms_avg,plan_len_m,optimal_grid_m,excess_pct
+"G1 bottom-left (r5,c0)",Dijkstra,10/10,0.6,3.36,3.5,-4.0
+"G1 bottom-left (r5,c0)",A*,10/10,0.4,3.36,3.5,-4.0
+"G2 bottom-right (r5,c5)",Dijkstra,10/10,0.4,4.89,5.0,-2.2
+"G2 bottom-right (r5,c5)",A*,10/10,0.4,4.91,5.0,-1.8
+"G3 top-right (r0,c5)",Dijkstra,10/10,0.6,4.34,4.5,-3.6
+"G3 top-right (r0,c5)",A*,10/10,0.2,4.26,4.5,-5.3
